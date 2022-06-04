@@ -32,3 +32,9 @@ The solution to this problem is by recognizing facial emotions.
 Facial Emotion Recognition (commonly known as FER) is one of the most researched field of computer vision till date and is still in continuous evaluation and improvement. The idea is, can we detect the emotion a person is having by his/her facial expressions? Of-course as a human we can very easily do that and in-fact we do this thousands of times every day. But can we make our so called dumb-machines intelligent enough so they can also achieve human level performance on these emotion recognizing task? See, because we humans have emotions that’s why we are easily able to detect other’s emotions but that’s not the case with machines.
 
 The advancements in the field of computer vision are skyrocketing, these tasks are no more that difficult, at-least we are able to achieve good performance with very less amount of efforts. We will see how that can be done with some lines of python code.
+
+Please refer this to see the FER - "https://github.com/prashantgaikwad132/Live-Class-Monitoring-System---Face-emotion-Recognition/blob/main/Final_Notebook05_Prashant_Gaikwad.ipynb"
+
+Results:
+
+<img src="images/Screenshot (449).png">
