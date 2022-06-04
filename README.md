@@ -35,6 +35,18 @@ The advancements in the field of computer vision are skyrocketing, these tasks a
 
 Please refer this to see the FER - "https://github.com/prashantgaikwad132/Live-Class-Monitoring-System---Face-emotion-Recognition/blob/main/Final_Notebook05_Prashant_Gaikwad.ipynb"
 
-Results:
+# Results:
 
+Algorithm gave an average accuracy up to 96 % for Convolutional Neural Network model.
+
+### Group Face Emotion Recognition (Live Class Monitoring System)
 <img src="images/Screenshot (449).png">
+
+### Live Face Emotion Recognition
+
+<img src="images/Screenshot (453).png">
+<img src="images/Screenshot (456).png">
+<img src="images/Screenshot (457).png">
+<img src="images/Screenshot (458).png">
+<img src="images/Screenshot (460).png">
+<img src="images/Screenshot (465).png">
