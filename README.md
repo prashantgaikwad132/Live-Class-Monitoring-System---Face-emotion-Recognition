@@ -33,7 +33,7 @@ Facial Emotion Recognition (commonly known as FER) is one of the most researched
 
 The advancements in the field of computer vision are skyrocketing, these tasks are no more that difficult, at-least we are able to achieve good performance with very less amount of efforts. We will see how that can be done with some lines of python code.
 
-Please refer this to see the FER - "https://github.com/prashantgaikwad132/Live-Class-Monitoring-System---Face-emotion-Recognition/blob/main/Final_Notebook05_Prashant_Gaikwad.ipynb"
+Please refer this to see the FER code - "https://github.com/prashantgaikwad132/Live-Class-Monitoring-System---Face-emotion-Recognition/blob/main/Final_Notebook05_Prashant_Gaikwad.ipynb"
 
 # Results:
 
