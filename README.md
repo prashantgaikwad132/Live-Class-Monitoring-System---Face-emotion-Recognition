@@ -40,9 +40,11 @@ Please refer this to see the FER code - "https://github.com/prashantgaikwad132/L
 Algorithm gave an average accuracy up to 96 % for Convolutional Neural Network model.
 
 ### Group Face Emotion Recognition (Live Class Monitoring System)
+Run the GroupFaceEmotionDetector - demo.py file to see the group face recognition.
 <img src="images/Screenshot (449).png">
 
 ### Live Face Emotion Recognition
+Run the LiveFaceEmotionDetector - demo.py file to see the live face recognition.
 
 <img src="images/Screenshot (453).png">
 <img src="images/Screenshot (456).png">
