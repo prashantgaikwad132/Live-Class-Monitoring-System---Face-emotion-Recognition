@@ -19,7 +19,6 @@ print("Loaded model from disk")
 cap = cv2.VideoCapture(0)
 
 # pass here your video path
-# you may download one from here : https://www.pexels.com/video/three-girls-laughing-5273028/
 #cap = cv2.VideoCapture("sample video/sample zoom recording.mp4")
 
 while True:
